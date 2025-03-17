@@ -48,14 +48,14 @@ is associated with pathological physiology and a hypoxic niche in tumors and pro
 
 ## Conference presentations:
 
-###2023  
+### 2023  
 Gabriela Dziurman, Agnieszka Drzał, Aleksandra Murzyn, Aleksandra Bienia, Małgorzata Szczygieł, Dariusz Szczygieł, Maciej Kmieć, Boris Epel, Martyna Krzykawska
 Serda, Martyna Elas: Quantitative Tumor Oxygenation Dynamics by EPR in Breast, Pancreas, Melanoma, and Brain Tumors, World Molecular Imaging Society 2023, 5-9 wrzesień 2023 Prage, Czechy, prezentacja plakatu
 
 Martyna Krzykawska-Serda, współautorzy: G. Dziurman G, A. Drzał, A.A. Murzyn, M.M. Kmiec, M. Krzykawska-Serda, M. Elas, Oxygen partial pressure dynamic as a marker of chemotherapy efficiency – in 
 vivo study on OchyChip and murine pancreatic cancer, 22-26 May 2023 Paris, France, Wystąpienie ustne
 
-###2024  
+### 2024  
 M. Elas et al., Department of Biophysics and Cancer Biology: Tumor microenvironment studies, 51th Winter School of the Faculty of Biochemistry, Biophysics and Biotechnology, 2024, Kraków, prezentacja ustna  
 
 Krzykawska-Serda Martyna, Murzyn Aleksandra, Bienia Aleksandra, Wiecheć-Cudak Olga, Dziurman Gabriela, Drwięga Gniewosz, Drzał Agnieszka, Szczygieł Małgorzata, Świerzewski Piotr, Serda Maciej, Elas Martyna Advanced Gold Nanorod-Based Theranostics: A Multimodal Approach to Combat Pancreatic Ductal Adenocarcinoma, , Chemistry towards Biology, 1-4 July 2024, Kraków, prezentacja ustna [abstract](https://krzykawska.github.io/OPUS23/abstract_MKS_ME.pdf)
