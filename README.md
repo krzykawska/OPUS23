@@ -48,7 +48,7 @@ is associated with pathological physiology and a hypoxic niche in tumors and pro
 
 ## Conference presentations:
 
-###2023
+###2023  
 Gabriela Dziurman, Agnieszka Drzał, Aleksandra Murzyn, Aleksandra Bienia, Małgorzata Szczygieł, Dariusz Szczygieł, Maciej Kmieć, Boris Epel, Martyna Krzykawska
 Serda, Martyna Elas: Quantitative Tumor Oxygenation Dynamics by EPR in Breast, Pancreas, Melanoma, and Brain Tumors, World Molecular Imaging Society 2023, 5-9 wrzesień 2023 Prage, Czechy, prezentacja plakatu
 
