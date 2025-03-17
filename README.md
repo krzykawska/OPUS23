@@ -81,8 +81,7 @@ A.Murzyn, M. Serda, G. Dziurman, P. Adamowicz, M. Kmieć, M. Elas, M. Krzykawska
 ## Team:
 
 Martyna Krzykawska-Serda  
-📰 [Publications](https://krzykawska.github.io/Publication/)    
-🤓 [ORCID](https://orcid.org/0000-0003-2038-8105) 🖥️ [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55859010600) 📈 [Google Scholar](https://scholar.google.nl/citations?view_op=list_works&hl=en&hl=en&user=x6LolB4AAAAJ&sortby=pubdate&alert_preview_top_rm=2)
+📰 [Publications](https://krzykawska.github.io/Publication/) 🤓 [ORCID](https://orcid.org/0000-0003-2038-8105) 🖥️ [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55859010600) 📈 [Google Scholar](https://scholar.google.nl/citations?view_op=list_works&hl=en&hl=en&user=x6LolB4AAAAJ&sortby=pubdate&alert_preview_top_rm=2)
 
 Aleksandra Murzyn  
 🤓 [ORCID](https://orcid.org/0000-0003-0485-8285)  
