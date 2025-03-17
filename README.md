@@ -50,7 +50,7 @@ is associated with pathological physiology and a hypoxic niche in tumors and pro
 
 M. Elas et al., Department of Biophysics and Cancer Biology: Tumor microenvironment studies, 51th Winter School of the Faculty of Biochemistry, Biophysics and Biotechnology, 2024, Kraków, prezentacja ustna  
 
-Krzykawska-Serda Martyna, Murzyn Aleksandra, Bienia Aleksandra, Wiecheć-Cudak Olga, Dziurman Gabriela, Drwięga Gniewosz, Drzał Agnieszka, Szczygieł Małgorzata, Świerzewski Piotr, Serda Maciej, Elas Martyna Advanced Gold Nanorod-Based Theranostics: A Multimodal Approach to Combat Pancreatic Ductal Adenocarcinoma, , Chemistry towards Biology, 1-4 July 2024, Kraków, prezentacja ustna [file]  
+Krzykawska-Serda Martyna, Murzyn Aleksandra, Bienia Aleksandra, Wiecheć-Cudak Olga, Dziurman Gabriela, Drwięga Gniewosz, Drzał Agnieszka, Szczygieł Małgorzata, Świerzewski Piotr, Serda Maciej, Elas Martyna Advanced Gold Nanorod-Based Theranostics: A Multimodal Approach to Combat Pancreatic Ductal Adenocarcinoma, , Chemistry towards Biology, 1-4 July 2024, Kraków, prezentacja ustna [abstract](https://krzykawska.github.io/OPUS23/abstract_MKS_ME.pdf)
 
 Murzyn Aleksandra, Wiecheć-Cudak Olga, Dziurman Gabriela, Drwięga Gniewosz,  Drzał Agnieszka, Szczygieł Małgorzata, Świerzewski Piotr, Elas Martyna, Serda Maciej, Krzykawska-Serda Martyna, Design, Synthesis, and Evaluation of Novel Gold Nanorod-Based Theranostic Agents for Anticancer Therapy, JS2024 : 5th Jagiellonian Symposium on Advances in Particle Physics and Medicine, 29.06-7.07.2024, Kraków, prezentacja ustna [file, abstract 474]  
 
