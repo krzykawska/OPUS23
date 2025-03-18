@@ -6,14 +6,14 @@
 **description of the problem to be solved**  
 This project presumes that changes in oxygen partial pressure (pO2) in tumor tissues following
 anti-cancer therapy may provide a key answer to the poor prognosis of pancreatic cancer. The fundaments
-for this hypothesis are related to a variety of biological phenomena, all related to tissue hypoxia:
-• unique pancreatic ductal adenocarcinoma (PDAC) microenvironment,
-• a strong relationship between hypoxia and tumor invasiveness and resistance,
-• hypoxia-induced Cancer Steam Cells (CSC) phenotype with higher migration capacity,
-• induction of angiogenesis in a tumor can promote tumor growth,
-• significant heterogeneity of pO2 levels after various treatments,
-• role of oxygen in energy production in cells (needed for, e.g., proliferation),
-• hypoxia mediates chemoresistance and stimulates multidrug resistance.
+for this hypothesis are related to a variety of biological phenomena, all related to tissue hypoxia:  
+• unique pancreatic ductal adenocarcinoma (PDAC) microenvironment,  
+• a strong relationship between hypoxia and tumor invasiveness and resistance,  
+• hypoxia-induced Cancer Steam Cells (CSC) phenotype with higher migration capacity,  
+• induction of angiogenesis in a tumor can promote tumor growth,  
+• significant heterogeneity of pO2 levels after various treatments,  
+• role of oxygen in energy production in cells (needed for, e.g., proliferation),  
+• hypoxia mediates chemoresistance and stimulates multidrug resistance.  
 The above phenomena will be addressed in the current proposal and will be tested in the context
 of pancreatic cancer. What is more, there is no comprehensive research on the role of pO2 in PDAC and
 the possibilities of predicting treatment success based on changes in PDAC oxygenation level. Three
